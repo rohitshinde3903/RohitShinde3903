@@ -30,17 +30,8 @@
 
 ## 💻 Tech Stack  
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![SQL](https://img.shields.io/badge/sql-%230074D1.svg?style=for-the-badge&logo=sql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)  
-![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![DSA](https://img.shields.io/badge/DSA-%23E34F26.svg?style=for-the-badge&logo=DSA&logoColor=white)  
-![Data Science](https://img.shields.io/badge/Data%20Science-%23008080.svg?style=for-the-badge&logo=DataScience&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![SQL](https://img.shields.io/badge/sql-%230074D1.svg?style=for-the-badge&logo=sql&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)  ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![DSA](https://img.shields.io/badge/DSA-%23E34F26.svg?style=for-the-badge&logo=DSA&logoColor=white)  ![Data Science](https://img.shields.io/badge/Data%20Science-%23008080.svg?style=for-the-badge&logo=DataScience&logoColor=white)  
 
 ---
 
